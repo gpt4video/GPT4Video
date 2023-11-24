@@ -21,7 +21,7 @@ Code will be released soon!
 
 
 ## ✨ Demo video
-[Demo Video](https://github.com/gpt4video/GPT4Video/assets/151513068/4620df01-dd60-41f5-bdc1-57964dbf6ce0)
+[Demo Video](https://github.com/gpt4video/GPT4Video/assets/151513068/739b05f4-a945-4519-9cae-83e1d35c7a1e)
 
 
 ## Citation
