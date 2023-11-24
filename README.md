@@ -1,12 +1,12 @@
-# Free-Bloom
+# GPT4Video
 
-This repository is the official implementation of [GPT4Video](https://arxiv.org/abs/2309.14494).
+This repository is the official implementation of GPT4Video.
 
 **[GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/abs/2309.14494)**
 
 [Zhanyu Wang](https://wang-zhanyu.github.io/), [Longyue Wang](http://www.longyuewang.com/)\*, [Zhen Zhao](http://zhaozhen.me/), [Minghao Wu](https://minghao-wu.github.io/), [Chenyang Lyu](https://lyuchenyang.github.io/), [Huayang Li](https://sites.google.com/view/huayangli), [Deng Cai](https://jcyk.github.io/), [Luping Zhou](https://sites.google.com/view/lupingzhou)\*, [Shuming Shi](https://shumingshi.github.io/), [Zhaopeng Tu](http://www.zptu.net/)
 
-**Tencent AI Lab**, **University of Sydney**
+**Tencent AI Lab**, **University of Sydney** 
 
 (\*Correspondence)
 
