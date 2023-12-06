@@ -2,7 +2,7 @@
 
 This repository is the official implementation of GPT4Video.
 
-**[GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/abs/2309.14494)**
+**[GPT4Video: A Unified Multimodal Large Language Model for lnstruction-Followed Understanding and Safety-Aware Generation](https://arxiv.org/abs/2311.16511)**
 
 [Zhanyu Wang](https://wang-zhanyu.github.io/), [Longyue Wang](http://www.longyuewang.com/)\*, [Zhen Zhao](http://zhaozhen.me/), [Minghao Wu](https://minghao-wu.github.io/), [Chenyang Lyu](https://lyuchenyang.github.io/), [Huayang Li](https://sites.google.com/view/huayangli), [Deng Cai](https://jcyk.github.io/), [Luping Zhou](https://sites.google.com/view/lupingzhou)\*, [Shuming Shi](https://shumingshi.github.io/), [Zhaopeng Tu](http://www.zptu.net/)
 
